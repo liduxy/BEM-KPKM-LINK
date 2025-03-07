@@ -97,8 +97,8 @@ body {
     text-shadow: 0 0 20px rgb(255, 111, 0);
 }
 
-.btn-1::after { background-image: url('1.jpg'); }
-.btn-2::after { background-image: url('2.jpg'); }
+.btn-1::after { background-image: url('1.JPG'); }
+.btn-2::after { background-image: url('2.JPG'); }
 
 @media (max-width: 768px) {
     .logo {
